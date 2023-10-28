@@ -1,0 +1,9 @@
+workflow-aggregator:596.v8c21c963d92d
+github:1.37.3.1
+ws-cleanup:0.45
+greenballs:1.15.1
+simple-theme-plugin:172.v4b_8766c70078
+kubernetes:4110.v2d7ceb_d59c53
+docker-workflow:572.v950f58993843
+kubernetes-cli:1.12.1
+github-branch-source:1741.va_3028eb_9fd21
