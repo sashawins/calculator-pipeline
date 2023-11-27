@@ -8,7 +8,7 @@
 
 ## Launching Jenkins
 
-**Using** `http://localhost:8080` or `http://0.0.0.0:8080` on your host machine browser.  
+**Use** `http://localhost:8080` or `http://0.0.0.0:8080` on your host machine browser.  
 **Login** via `admin` as a login and `%/var/lib/jenkins/secrets/initialAdminPassword%` as a password.
 
 ## Creating Pipeline
